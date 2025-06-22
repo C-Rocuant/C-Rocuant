@@ -1,14 +1,12 @@
-<div align="Center">
-<img width="100" src="[https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00](https://camo.githubusercontent.com/740ec2c9520d4ecd9180980ce0086b8a2168a67f00856397489f537f0adeaad2/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d31303026636f6c6f723d6772616469656e7426726576657273616c3d74727565)" />
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
 <div align="center">
 
 <a href="https://github.com/CtorW">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
+![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
 </a>
-
-[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
-[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
 </div>
 
 
