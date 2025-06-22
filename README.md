@@ -17,18 +17,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
-
 <!--- ENGLISH VERSION -->
 <h3> ENGLISH VERSION </h3>
+<br>
 
 <!--- Title - About me -->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<br><br>
 
 <!--- Contenido - About me -->
-### 👋 Hi! I'm Christopher
-
 For over five years, I helped people understand their paychecks, navigate contracts, and solve HR-related challenges. Now, I’m channeling that same attention to detail and problem-solving mindset into something that has always fascinated me: **data and technology**.
 
 My transition into the data science world wasn’t a coincidence. Math and physics have always come naturally to me, and now I’m applying that analytical thinking to real-world projects—exploring, modeling, visualizing, and communicating insights.
@@ -38,31 +35,20 @@ I'm building a portfolio that not only reflects what I can do today, but also th
 📌 Currently working on projects in sales analysis, data visualization, and Python storytelling.  
 🔜 Aspiring robotics and electronics enthusiast.  
 🌐 Always connected to tech and eager to learn something new.
+:student:: Actualmente estudiando [Data Science - Alura Latam](https://app.aluracursos.com/corp/one-tech-foundation-especializacion-data-science-7263-p15969) at [Oracle Next Education](https://www.oracle.com/cl/education/oracle-next-education/partnerships/).
 
 > This GitHub isn’t just a portfolio—it’s my roadmap to a new career.
 
 <br><br>
-
-- :school: I am a `Junior` at [Data Science - Alura Latam](https://app.aluracursos.com/corp/one-tech-foundation-especializacion-data-science-7263-p15969) at [Oracle Next Education](https://www.oracle.com/cl/education/oracle-next-education/partnerships/).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
-<br>
-
-
-
+---
 
 <!--- ENGLISH VERSION -->
 <h3> VERSION EN ESPAÑOL </h3>
+<br>
 
-<!--- Title - About me -->	
+<!--- Tiulo - About me -->	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<br><br>
 
 <!--- Contenido - About me -->
 ### 👋 ¡Hola! Soy Christopher
@@ -76,20 +62,11 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
 📌 Actualmente trabajando en proyectos de análisis de ventas, visualización de datos y narrativas con Python.  
 🔜 Futuro explorador de robótica y electrónica.  
 🌐 Siempre conectado con la tecnología y aprendiendo algo nuevo.
+:student:: Actualmente estudiando [Data Science - Alura Latam](https://app.aluracursos.com/corp/one-tech-foundation-especializacion-data-science-7263-p15969) at [Oracle Next Education](https://www.oracle.com/cl/education/oracle-next-education/partnerships/).
 
 > Este GitHub no es solo un portafolio, es mi bitácora de transformación profesional.
 
 <br><br>
-
-- :school: Soy estudiante `Junior` del progrma [Data Science - Alura Latam](https://app.aluracursos.com/corp/one-tech-foundation-especializacion-data-science-7263-p15969) at [Oracle Next Education](https://www.oracle.com/cl/education/oracle-next-education/partnerships/).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
-<br>
 ---
 
 <br><br>
