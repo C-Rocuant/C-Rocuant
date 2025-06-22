@@ -18,14 +18,15 @@
 </p>
 
 
-<!--- -->
-	
+<!--- ENGLISH VERSION -->
+<h3> ENGLISH VERSION </h3>
+
+<!--- Title - About me -->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 <br><br>
 
+<!--- Contenido - About me -->
 ### 👋 Hi! I'm Christopher
 
 For over five years, I helped people understand their paychecks, navigate contracts, and solve HR-related challenges. Now, I’m channeling that same attention to detail and problem-solving mindset into something that has always fascinated me: **data and technology**.
@@ -42,7 +43,7 @@ I'm building a portfolio that not only reflects what I can do today, but also th
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
+- :school: I am a `Junior` at [Data Science - Alura Latam](https://app.aluracursos.com/corp/one-tech-foundation-especializacion-data-science-7263-p15969) at [Oracle Next Education](https://www.oracle.com/cl/education/oracle-next-education/partnerships/).
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
@@ -51,6 +52,57 @@ I'm building a portfolio that not only reflects what I can do today, but also th
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
 <br>
+
+
+
+
+<!--- ENGLISH VERSION -->
+<h3> VERSION EN ESPAÑOL </h3>
+
+<!--- Title - About me -->	
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<br><br>
+
+<!--- Contenido - About me -->
+### 👋 ¡Hola! Soy Christopher
+
+Durante más de 5 años ayudé a personas a recibir su sueldo correctamente, entender sus contratos y navegar procesos complejos en recursos humanos. Hoy, esa misma atención al detalle y pasión por resolver problemas la estoy volcando hacia algo que siempre me fascinó: **los datos y la tecnología**.
+
+Mi transición al mundo de la ciencia de datos no fue casualidad. Desde pequeño, las matemáticas y la física fueron lenguajes naturales para mí. Ahora, como estudiante autodidacta en Data Science, traduzco esa facilidad en proyectos reales que me desafían a pensar, modelar, visualizar y explicar.
+
+Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, y compartir el proceso. Ya tengo experiencia como freelancer creando sitios web con WordPress y front-end, pero ahora mi enfoque está en **crear un portafolio sólido que refleje lo que puedo aportar como analista o científico de datos.**
+
+📌 Actualmente trabajando en proyectos de análisis de ventas, visualización de datos y narrativas con Python.  
+🔜 Futuro explorador de robótica y electrónica.  
+🌐 Siempre conectado con la tecnología y aprendiendo algo nuevo.
+
+> Este GitHub no es solo un portafolio, es mi bitácora de transformación profesional.
+
+<br><br>
+
+- :school: Soy estudiante `Junior` del progrma [Data Science - Alura Latam](https://app.aluracursos.com/corp/one-tech-foundation-especializacion-data-science-7263-p15969) at [Oracle Next Education](https://www.oracle.com/cl/education/oracle-next-education/partnerships/).
+- :trophy: 2x `ACPC` Finalist.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+<br>
+---
+
+<br><br>
+
+
+
+
+
+
+
+
+<br><br>
+
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
