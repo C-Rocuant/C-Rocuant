@@ -26,6 +26,22 @@
 
 <br><br>
 
+### 👋 Hi! I'm Christopher
+
+For over five years, I helped people understand their paychecks, navigate contracts, and solve HR-related challenges. Now, I’m channeling that same attention to detail and problem-solving mindset into something that has always fascinated me: **data and technology**.
+
+My transition into the data science world wasn’t a coincidence. Math and physics have always come naturally to me, and now I’m applying that analytical thinking to real-world projects—exploring, modeling, visualizing, and communicating insights.
+
+I'm building a portfolio that not only reflects what I can do today, but also the professional I aim to become. I’ve worked as a freelancer building websites with WordPress and front-end tech, but my focus now is on **creating smart data-driven solutions**.
+
+📌 Currently working on projects in sales analysis, data visualization, and Python storytelling.  
+🔜 Aspiring robotics and electronics enthusiast.  
+🌐 Always connected to tech and eager to learn something new.
+
+> This GitHub isn’t just a portfolio—it’s my roadmap to a new career.
+
+<br><br>
+
 - :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
