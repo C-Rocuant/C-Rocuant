@@ -124,7 +124,6 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
 </table>-->
 
 <!--- stats (end) -->
-	<br>
 
 <!---## 🐍 A Snake Eating my Contributions Graph
 	<p align = "center">
@@ -134,6 +133,11 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
 
 
 <!-- FOOTER -->
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe/>
+</div>
+
+
 <div align="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
   alt="footer" />
