@@ -17,12 +17,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
-<!--- ENGLISH VERSION -->
-<h3> ENGLISH VERSION </h3>
 
 <!--- Title - About me -->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<!--- ENGLISH VERSION -->
+<h3> ENGLISH VERSION </h3>
+<br>
 
 <!--- Contenido - About me -->
 For over five years, I helped people understand their paychecks, navigate contracts, and solve HR-related challenges. Now, I’m channeling that same attention to detail and problem-solving mindset into something that has always fascinated me: **data and technology**.
@@ -42,8 +44,9 @@ I'm building a portfolio that not only reflects what I can do today, but also th
 <!--- VERSION EN ESPAÑOL -->
 <h3> VERSION EN ESPAÑOL </h3>
 <br>
+
 <!--- Contenido - About me -->
-Durante más de 5 años ayudé a personas a recibir su sueldo correctamente, entender sus contratos y navegar procesos complejos en recursos humanos. Hoy, esa misma atención al detalle y pasión por resolver problemas la estoy volcando hacia algo que siempre me fascinó: **los datos y la tecnología**.
+Durante más de 5 años ayudé a personas a recibir su sueldo correctamente, entender sus contratos y navegar procesos complejos en recursos humanos. Hoy, esa misma atención al detalle y pasión por resolver problemas la estoy volcando hacia algo que siempre me fascinó: **los datos y la tecnología**.                       
 
 Mi transición al mundo de la ciencia de datos no fue casualidad. Desde pequeño, las matemáticas y la física fueron lenguajes naturales para mí. Ahora, como estudiante autodidacta en Data Science, traduzco esa facilidad en proyectos reales que me desafían a pensar, modelar, visualizar y explicar.
 
