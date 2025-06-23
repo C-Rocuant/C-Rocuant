@@ -105,65 +105,32 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
 <br>
 
 
-<!-- REPOSITORIOS
+<!-- REPOSITORIOS -->
+<!-- <h2 align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats</h2> -->
+<!---  ### Github Activity ✔: -->
+<!---<p align="left"> -->
+  <!--- stats (start) -->
+<!--- <table align="left">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ElioChiu&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChiu&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ElioChiu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  </td>
+</tr>
+</table>-->
 
-<h2 align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats</h2>
-
-### Github Activity ✔:
-
-<p align="left">
- 			 <!--- stats (start) -->
-	<table align="left">
-	<tr border="none">
-	<td width="50%" align="center">
-	  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ElioChiu&theme=dark&show_icons=true&count_private=true" />
-	  <br></br>
- 	 <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChiu&theme=dark&hide_border=false" /> 
-	</td>
-
-
-	<td width="50%" align="center">
-	
-	  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ElioChiu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-
-	  </td>
-	</tr>
-	</table>
-			<!--- stats (end) -->
+<!--- stats (end) -->
 	<br>
 
-	### My Projects ✨:
-  
-	<a href="https://github.com/Davekibh/Background-generator">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
-	</a>
-
-	<a href="https://github.com/Davekibh/robofriends">
-	 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
-	</a>
-
-	<a href="https://github.com/Davekibh/Picture-Sharing-app">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
-	</a>
-
-	<a href="https://github.com/Davekibh/Chat-app">
-	 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
-	</a>
-
-	<a href="https://github.com/Davekibh/Quiz-App">
-	 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
-	</a>
-
-	<a href="https://github.com/Davekibh/Quiz-Admin-App">
-	 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
-	</a>
-
-
-	## 🐍 A Snake Eating my Contributions Graph
+<!---## 🐍 A Snake Eating my Contributions Graph
 	<p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 	</p>
-  	-->  
+  -->  
 
 
 <!-- FOOTER -->
