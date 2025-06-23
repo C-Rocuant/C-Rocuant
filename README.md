@@ -41,9 +41,9 @@ I'm building a portfolio that not only reflects what I can do today, but also th
 > This GitHub isn’t just a portfolio—it’s my roadmap to a new career.
 <br>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 <!--- VERSION EN ESPAÑOL -->
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <h3> VERSION EN ESPAÑOL </h3>
 <br>
 
