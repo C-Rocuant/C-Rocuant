@@ -35,7 +35,7 @@ I'm building a portfolio that not only reflects what I can do today, but also th
 
 📌 Currently working on projects in sales analysis, data visualization, and Python storytelling.  
 🔜 Aspiring robotics and electronics enthusiast.  
-🌐 Always connected to tech and eager to learn something new.
+🌐 Always connected to tech and eager to learn something new.                                                                 
 📚 Actualmente estudiando [Data Science - Alura Latam](https://app.aluracursos.com/corp/one-tech-foundation-especializacion-data-science-7263-p15969) at [Oracle Next Education](https://www.oracle.com/cl/education/oracle-next-education/partnerships/).
 
 > This GitHub isn’t just a portfolio—it’s my roadmap to a new career.
@@ -52,21 +52,16 @@ I'm building a portfolio that not only reflects what I can do today, but also th
 
 <!--contact me -->  
 <h2 align="center">Contac me</h2>
-
-<a href= "https://www.linkedin.com/in/christopher-rocuant-garrido-7b3315142/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href= "c.rocuant@outlook.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-</a>
-<a href= "ch.rocuan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href= "https://github.com/C-Rocuant">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-
+<p align="center">
+	<a href= "https://www.linkedin.com/in/christopher-rocuant-garrido-7b3315142/">
+    		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href= "c.rocuant@outlook.com">
+   		 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+	<a href= "ch.rocuan@gmail.com">
+   		 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+	<a href= "https://github.com/C-Rocuant">
+   		 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 <!--
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)
@@ -76,6 +71,8 @@ I'm building a portfolio that not only reflects what I can do today, but also th
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 -->  
+<br>
+
 
 
 
@@ -98,8 +95,7 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
 
 📌 Actualmente trabajando en proyectos de análisis de ventas, visualización de datos y narrativas con Python.  
 🔜 Futuro explorador de robótica y electrónica.  
-🌐 Siempre conectado con la tecnología y aprendiendo algo nuevo.
-🌐 Siempre conectado con la tecnología y aprendiendo algo nuevo.
+🌐 Siempre conectado con la tecnología y aprendiendo algo nuevo.                                               
 📚 Actualmente estudiando [Data Science - Alura Latam](https://app.aluracursos.com/corp/one-tech-foundation-especializacion-data-science-7263-p15969) at [Oracle Next Education](https://www.oracle.com/cl/education/oracle-next-education/partnerships/).
 
 > Este GitHub no es solo un portafolio, es mi bitácora de transformación profesional.
@@ -117,21 +113,16 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
 
 <!--contact me -->  
 <h2 align="center">Contac me</h2>
-
-<a href= "https://www.linkedin.com/in/christopher-rocuant-garrido-7b3315142/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href= "c.rocuant@outlook.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-</a>
-<a href= "ch.rocuan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href= "https://github.com/C-Rocuant">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-
+<p align="center">
+	<a href= "https://www.linkedin.com/in/christopher-rocuant-garrido-7b3315142/">
+    		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href= "c.rocuant@outlook.com">
+   		 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+	<a href= "ch.rocuan@gmail.com">
+   		 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+	<a href= "https://github.com/C-Rocuant">
+   		 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 <!--
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)
@@ -141,8 +132,7 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 -->  
-
-<br><br>
+<br>
 
 
 
