@@ -97,7 +97,9 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
 
 <!-- Repositorios -->
 <h2 align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats</h2>
+
 ### Github Activity ✔:
+
 <div>
 	<a href="https://github.com/Davekibh">
 		<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
