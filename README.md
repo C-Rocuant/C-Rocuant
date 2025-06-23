@@ -103,6 +103,50 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
 </div>
 <br>
 
+
+
+
+
+### Github Activity ✔:
+
+<a href="https://github.com/Davekibh">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
+  </a>
+
+<a href="https://github.com/Davekibh">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+</a>
+
+<br/>
+<br/>
+<br/>
+
+### My Projects ✨:
+  
+<a href="https://github.com/Davekibh/Background-generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/robofriends">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Picture-Sharing-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Chat-app">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Quiz-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Davekibh/Quiz-Admin-App">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
+</a>
+
 <!--	
 ## 🐍 A Snake Eating my Contributions Graph
 <p align = "center">
@@ -113,7 +157,6 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
 <!-- FOOTER -->
 
 <div align="center" width="100">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
   alt="footer" />
 </div>
