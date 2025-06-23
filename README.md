@@ -45,7 +45,7 @@ I'm building a portfolio that not only reflects what I can do today, but also th
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py, js, html, css, git, github, mysql, mongodb, vscode, sublime, wordpress, arduino, " />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,mysql,mongodb,vscode,sublime,wordpress,arduino"/>
   </a>
 </p>
 ---
@@ -80,7 +80,7 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py, js, html, css, git, github, mysql, mongodb, vscode, sublime, wordpress, arduino, " />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,mysql,mongodb,vscode,sublime,wordpress,arduino"/>
   </a>
 </p>
 ---
