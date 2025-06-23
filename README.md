@@ -19,11 +19,11 @@
 
 
 <!--- Title - About me -->
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<h2 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me</h2>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <!--- ENGLISH VERSION -->
-<h3> ENGLISH VERSION </h3>
+<h3> English Version </h3>
 <br>
 
 <!--- Contenido - About me -->
@@ -44,7 +44,7 @@ I'm building a portfolio that not only reflects what I can do today, but also th
 
 <!--- VERSION EN ESPAÑOL -->
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<h3> VERSION EN ESPAÑOL </h3>
+<h3> Versión en Español </h3>
 <br>
 
 <!--- Contenido - About me -->
