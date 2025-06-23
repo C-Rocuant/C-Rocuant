@@ -16,11 +16,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
-<br>
 
 <!--- ENGLISH VERSION -->
 <h3> ENGLISH VERSION </h3>
-<br>
 
 <!--- Title - About me -->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -41,52 +39,10 @@ I'm building a portfolio that not only reflects what I can do today, but also th
 > This GitHub isn’t just a portfolio—it’s my roadmap to a new career.
 <br>
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,mysql,mongodb,vscode,sublime,wordpress,arduino"/>
-  </a>
-</p>
-<br>
-
-<!--contact me -->  
-<h2 align="center">Contac me</h2>
-<p align="center">
-	<a href= "https://www.linkedin.com/in/christopher-rocuant-garrido-7b3315142/">
-    		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-	<a href= "c.rocuant@outlook.com">
-   		 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-	<a href= "ch.rocuan@gmail.com">
-   		 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-	<a href= "https://github.com/C-Rocuant">
-   		 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-<!--
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
--->  
-<br>
-
-
-
-
 <!--- VERSION EN ESPAÑOL -->
 <h3> VERSION EN ESPAÑOL </h3>
 <br>
-
-<!--- Tiulo - About me -->	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 <!--- Contenido - About me -->
-### 👋 ¡Hola! Soy Christopher
-
 Durante más de 5 años ayudé a personas a recibir su sueldo correctamente, entender sus contratos y navegar procesos complejos en recursos humanos. Hoy, esa misma atención al detalle y pasión por resolver problemas la estoy volcando hacia algo que siempre me fascinó: **los datos y la tecnología**.
 
 Mi transición al mundo de la ciencia de datos no fue casualidad. Desde pequeño, las matemáticas y la física fueron lenguajes naturales para mí. Ahora, como estudiante autodidacta en Data Science, traduzco esa facilidad en proyectos reales que me desafían a pensar, modelar, visualizar y explicar.
@@ -101,6 +57,7 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
 > Este GitHub no es solo un portafolio, es mi bitácora de transformación profesional.
 <br>
 
+
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
@@ -109,7 +66,6 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
   </a>
 </p>
 <br>
-
 
 <!--contact me -->  
 <h2 align="center">Contac me</h2>
@@ -135,7 +91,13 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
 <br>
 
 
+<h2>Github stats:</h2> 
 
+[![](https://github-readme-stats.vercel.app/api?username=valentinawerle&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)](https://github.com/valentinawerle)
+</div>
+
+<br>
 
 
 
