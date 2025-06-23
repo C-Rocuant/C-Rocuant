@@ -62,6 +62,15 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
 > Este GitHub no es solo un portafolio, es mi bitácora de transformación profesional.
 <br>
 
+<!-- Estudios y Certificaciones -->
+<h2 align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture>Studies and Certifications</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py"/>
+  </a>
+</p>
+<br>
+
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2> 
@@ -100,16 +109,25 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
 
 ### Github Activity ✔:
 
-<div>
-	<a href="https://github.com/Davekibh">
-		<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
-	</a>
-	<a href="https://github.com/Davekibh">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
-	</a>
-</div>	
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight" alt="Dave's github stats"/>
+<p align="left">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=ElioChiu&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChiu&theme=dark&hide_border=false" /> 
+</td>
 
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ElioChiu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 <br>
 
 ### My Projects ✨:
@@ -147,7 +165,7 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
 
 <!-- FOOTER -->
 
-<div align="center" width="100">
+<div align="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
   alt="footer" />
 </div>
