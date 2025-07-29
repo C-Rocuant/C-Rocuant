@@ -14,7 +14,7 @@
 <h1 align="center">Hi , I'm Christopher Rocuant <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--- Mensaje principal - profesion -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Data%20Scientist;Machine%20Learning;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Data%20Scientist;Machine%20Learning;&center=true&width=440&height=45"></a>
 </p>
 
 
