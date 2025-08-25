@@ -64,11 +64,7 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
 
 <!-- Estudios y Certificaciones -->
 <h2 align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture>Studies and Certifications</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py"/>
-  </a>
-</p>
+<h3 align="center">[Data Science - Alura Latam](https://app.aluracursos.com/user/ch-rocuant/fullCertificate/985989afd31bf2a1bbd33e7f14027a89)</h3>
 <br>
 
 
@@ -76,7 +72,7 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
 <h2 align="center">Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,mysql,mongodb,vscode,sublime,wordpress,arduino"/>
+    <img src="https://skillicons.dev/icons?i=py,git,github,mysql,mongodb,vscode,sublime,sklearn,tensorflow,arduino"/>
   </a>
 </p>
 <br>
