@@ -36,7 +36,6 @@ I'm building a portfolio that not only reflects what I can do today, but also th
 📌 Currently working on projects in sales analysis, data visualization, and Python storytelling.  
 🔜 Aspiring robotics and electronics enthusiast.  
 🌐 Always connected to tech and eager to learn something new.                                                                 
-📚 Actualmente estudiando [Data Science - Alura Latam](https://app.aluracursos.com/corp/one-tech-foundation-especializacion-data-science-7263-p15969) at [Oracle Next Education](https://www.oracle.com/cl/education/oracle-next-education/partnerships/).
 
 > This GitHub isn’t just a portfolio—it’s my roadmap to a new career.
 <br>
@@ -57,14 +56,15 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
 📌 Actualmente trabajando en proyectos de análisis de ventas, visualización de datos y narrativas con Python.  
 🔜 Futuro explorador de robótica y electrónica.  
 🌐 Siempre conectado con la tecnología y aprendiendo algo nuevo.                                               
-📚 Actualmente estudiando [Data Science - Alura Latam](https://app.aluracursos.com/corp/one-tech-foundation-especializacion-data-science-7263-p15969) at [Oracle Next Education](https://www.oracle.com/cl/education/oracle-next-education/partnerships/).
 
 > Este GitHub no es solo un portafolio, es mi bitácora de transformación profesional.
 <br>
 
 <!-- Estudios y Certificaciones -->
 <h2 align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture>Studies and Certifications</h2>
-<h3 align="center">[Data Science - Alura Latam](https://app.aluracursos.com/user/ch-rocuant/fullCertificate/985989afd31bf2a1bbd33e7f14027a89)</h3>
+<h3 align="center">Certificación en Data Science – Alura & Oracle Next Education (2025)</h3>
+	<a href=(https://app.aluracursos.com/user/ch-rocuant/fullCertificate/985989afd31bf2a1bbd33e7f14027a89)>
+	</a>
 <br>
 
 
