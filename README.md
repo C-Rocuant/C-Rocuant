@@ -61,12 +61,19 @@ Mi objetivo es claro: construir soluciones inteligentes, aprender en cada paso, 
 <br>
 
 <!-- Estudios y Certificaciones -->
-<h2 align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture>Studies and Certifications</h2>
+<h2 align="center">
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px">
+  </picture>
+  Studies and Certifications
+</h2>
 <br>
-<a href=(https://app.aluracursos.com/user/ch-rocuant/fullCertificate/985989afd31bf2a1bbd33e7f14027a89)>
-	<h3 align="center">Certificación en Data Science – Alura & Oracle Next Education (2025)</h3>
-</a>
-<br>
+
+<h3 align="center">
+  <a href="https://app.aluracursos.com/user/ch-rocuant/fullCertificate/985989afd31bf2a1bbd33e7f14027a89">
+    Certificación en Data Science – Alura & Oracle Next Education (2025)
+  </a>
+</h3>
 
 
 <!--Languages and Tools Section-->       
